@@ -48,7 +48,7 @@ Application Usage:
 * After login you are promted with empty table and querry button, press querry to see related data for that particular user1
 * To see other related data for user2 or user 3, you must login with those users.
 
-Additional API:
+Additional API (querry for data):
 -----------
 * http://localhost:9091/users   - to see data from users Entity
 * http://localhost:9091/farms   - to see data from farms Entity
