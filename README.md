@@ -23,6 +23,7 @@ The application has the following features:
 
 Project SetUp:
 -----------
+* open Eclipse STS and import maven project (the root dir)
 * open application.properties and set your MySql field for userName and password
 * in the application.properties also set your DB name (eg: jdbc:mysql://localhost:3306/world) - change world to the name of your DB
 * also you can customize the port app is running on. The default one is 9091.
@@ -30,3 +31,10 @@ Project SetUp:
 
 Application Usage:
 -----------
+* Right click on project spring-boot-demo -> run as -> spring boot app or java app
+* Open the browser and goTo http://localhost:9091/
+* You will be promted with a login screen
+** predifend users and pass:
+*** username: user1  password: 1234
+*** username: user2  password: 1234
+*** username: user3  password: 1234
