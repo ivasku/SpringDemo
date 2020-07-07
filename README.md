@@ -4,11 +4,11 @@ Eclipse project demonstrating SpringBoot with Hibernate and SpringSecurity using
 
 Developer with:
 
-Spring Tool Suite 4 
-Version: 4.7.0.RELEASE
-Build Id: 202006181331
-OS: Windows 10, v.10.0, x86_64 / win32
-Java version: 1.8.0_251
+Spring Tool Suite 4 <br />
+Version: 4.7.0.RELEASE<br />
+Build Id: 202006181331<br />
+OS: Windows 10, v.10.0, x86_64 / win32<br />
+Java version: 1.8.0_251<br />
 
 
 The application has the following features:
