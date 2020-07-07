@@ -29,13 +29,20 @@ Project SetUp:
 * also you can customize the port app is running on. The default one is 9091.
 
 
+Predifined data:
+-----------
+- predifend users and pass:
+- username: user1  password: 1234
+- username: user2  password: 1234
+- username: user3  password: 1234
+
+
 Application Usage:
 -----------
 * Right click on project spring-boot-demo -> run as -> spring boot app or java app
 * Open the browser and goTo http://localhost:9091/
 * You will be promted with a login screen
+* Use any of the predifined users to see the relations between tables (eg: Farms, Customers, Accounts).
+* To check other relations you need to login with other users as some of the relations are unique to some users
 
-- predifend users and pass:
- - username: user1  password: 1234
- - username: user2  password: 1234
- - username: user3  password: 1234
+
