@@ -45,4 +45,13 @@ Application Usage:
 * Use any of the predifined users to see the relations between tables (eg: Farms, Customers, Accounts).
 * To check other relations you need to login with other users as some of the relations are unique to some users
 
+* After login you are promted with empty table and querry button, press querry to see related data for that particular user1
+* To see other related data for user2 or user 3, you must login with those users.
+
+Additional API:
+-----------
+* http://localhost:9091/users   - to see data from users Entity
+* http://localhost:9091/farms   - to see data from farms Entity
+* http://localhost:9091/accounts   - to see data from accounts Entity
+* http://localhost:9091/customer   - to see data from customer Entity
 
